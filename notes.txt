@@ -1,0 +1,6 @@
+
+adicionar equipa ao campeonato 
+criar jogo nesse campeonato 
+registar resultado jogo
+calcular quantos jogos faltam jogar 
+calcular a equipa com mais golos
