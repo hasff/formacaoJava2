@@ -1,4 +1,4 @@
-
+TODO
 adicionar equipa ao campeonato 
 criar jogo nesse campeonato 
 registar resultado jogo
