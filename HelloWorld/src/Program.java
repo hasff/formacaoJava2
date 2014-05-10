@@ -12,7 +12,7 @@ public class Program {
 		//sol2(args);
 		//sol3(args);
 		//sol4(args);
-		sol5(args);
+		//sol5(args);
 		
 		System.out.println();
 		System.out.println();
@@ -85,7 +85,7 @@ public class Program {
 			System.out.println("(!) nao existem parametros!");
 			return;
 		}
-		
+		   
 		if (currPos == args.length-1){
 			System.out.print(args[currPos]);
 			return;
