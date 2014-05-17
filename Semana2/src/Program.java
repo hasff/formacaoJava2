@@ -5,7 +5,8 @@ public class Program {
 		// TODO Auto-generated method stub
 		int z = (int)0.6;
 		
-		System.out.println(z);
+		int xpto = (int)(1/2.9);
+		System.out.println(xpto);
 	}
 
 }
